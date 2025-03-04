@@ -13,7 +13,7 @@ public class week5 {
 
         Lluz.display();
 
-        Demetrial.display();
+        
 
       
         Lucero.display();
@@ -47,7 +47,7 @@ public class week5 {
 
 	Lim.Display();
 
-
+       Demetrial.display();
 
       Santos.display();
 
