@@ -13,7 +13,7 @@ public class week5 {
 
         Lluz.display();
 
-
+        Demetrial.display();
 
       
         Lucero.display();
